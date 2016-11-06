@@ -1,0 +1,39 @@
+citos LION
+POST /etiket_flight_dom.pl depature_date=25-02-2011&arrival_date=&connx=0&search_airline=JT%2CLion+Air&from_city=CGK%2CJakarta&to_city=JOG%2CYogyakarta&adult_total=1&chd_total=0&inf_total=0&ticket_type=ow
+
+GET /jt.php?citos_area=CA_DIY&adt_ttl=1&chd_ttl=0&inf_ttl=0&dep_day=25&dep_month=Feb&dep_year=2011&ret_day=&ret_month=&ret_year=&des=JOG&ori=CGK&trip_type=OW&dep_date=25-02-2011&ret_date=&__=1298423053848
+
+
+https://citosconnection.com/jt.php?citos_area=CA_DIY&adt_ttl=1&chd_ttl=0&inf_ttl=0&dep_day=25&dep_month=Feb&dep_year=2011&ret_day=&ret_month=&ret_year=&des=JOG&ori=CGK&trip_type=OW&dep_date=25-02-2011&ret_date=&__=1298421510656
+
+Citos Memilih Seat
+https://citosconnection.com/jt_fare.php?citos_area=CA_DIY&adt_ttl=1&chd_ttl=0&inf_ttl=0&dep_day=25&dep_month=Feb&dep_year=2011&ret_day=&ret_month=&ret_year=&des=JOG&ori=CGK&trip_type=OW&dep_date=25-02-2011&ret_date=&seat_class=M0_C0_F0_S14&__=1298421610325
+
+Citos Merpati
+POST /etiket_flight_dom.pl depature_date=25-02-2011&arrival_date=25-02-2011&connx=1&search_airline=MZ%2CMerpati+Nusantara&from_city=CGK%2CJakarta&connx_city=BIK%2CBIAK&to_city=JOG%2CYogyakarta&adult_total=1&chd_total=0&inf_total=0&ticket_type=ow
+
+GET /mz.php?citos_area=CA_DIY&adt_ttl=1&chd_ttl=0&inf_ttl=0&des=JOG&ori=CGK&trip_type=OW&dep_date=25-02-2011&ret_date=25-02-2011&__=1298422754983
+
+
+
+
+
+http://php.net/manual/en/function.fsockopen.php
+
+referrer:
+http://www.tiket2.com/english/search/flights.html?search_flights[trip]=one+way&search_flights[passengers]=1&search_flights[flight_from_airport]=JOG&search_flights[flight_to_airport]=CGK&search_flights[date_from_day]=27&search_flights[date_from_month_year]=2011-02&search_flights[_csrf_token]=04b1c471fddf4fa36e4a9e03012644a0&sdf=
+
+http://www.tiket2.com/english/search/flights.html?search_flights%5Btrip%5D=return&search_flights%5Bpassengers%5D=2&search_flights%5Bflight_from_airport%5D=CGK&search_flights%5Bflight_to_airport%5D=JOG&search_flights%5Bdate_from_day%5D=26&search_flights%5Bdate_from_month_year%5D=2011-02&search_flights%5Bdate_to_day%5D=05&search_flights%5Bdate_to_month_year%5D=2011-03&search_flights%5B_csrf_token%5D=04b1c471fddf4fa36e4a9e03012644a0&sdf=
+
+http://www.tiket2.com/english/search/flights.html?search_flights[trip]=return&search_flights[passengers]=2&search_flights[flight_from_airport]=CGK&search_flights[flight_to_airport]=JOG&search_flights[date_from_day]=26&search_flights[date_from_month_year]=2011-02&search_flights[date_to_day]=05&search_flights[date_to_month_year]=2011-03&search_flights[_csrf_token]=04b1c471fddf4fa36e4a9e03012644a0&sdf=
+
+
+http://www.oketiket.com/ajax_search_lion.php?Depart=Jakarta&Arrive=Jogjakarta&Date=27&Month=2&Year=2011&rnd=801&sesName=91d12b&mem_email=&mem_key=&xId=searchLion
+
+https://secure2.lionair.co.id/lionairibe/OnlineBooking.aspx?trip_type=one%20way&date_flexibility=fixed&depart=CGK&dest.1=JOG&date.0=27FEB&date.1=27FEB&persons.0=1&persons.1=0&persons.2=0&origin=ID&usercountry=ID
+
+https://secure2.lionair.co.id/lionairibe/OnlineBooking.aspx?trip_type=return&date_flexibility=fixed&depart=JOG&dest.1=CGK&date.0=23FEB&date.1=27FEB&persons.0=1&persons.1=0&persons.2=0&origin=ID&usercountry=ID
+
+https://secure2.lionair.co.id/lionairibe/OnlineBooking.aspx?trip_type=one%20way&date_flexibility=fixed&depart=CGK&dest.1=JOG&date.0=2MAR&date.1=22MAR&persons.0=1&persons.1=0&persons.2=0&origin=ID&usercountry=ID
+
+https://secure2.lionair.co.id/lionairibe/OnlineBooking.aspx?trip_type=one%20way&date_flexibility=fixed&depart=CGK&dest.1=JOG&date.0=3AUG&date.1=22AUG&persons.0=1&persons.1=0&persons.2=0&origin=ID&usercountry=ID
